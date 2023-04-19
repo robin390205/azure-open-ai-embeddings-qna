@@ -1,6 +1,6 @@
 # Azure OpenAI Embeddings QnA
 
-A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3 to extract the matching answer for the question.
+用于支持 OpenAI 的文档搜索的简单 Web 应用程序。 此存储库使用 Azure OpenAI 服务从文档创建嵌入向量。 为了回答用户的问题，它检索最相关的文档，然后使用 GPT-3或GPT-4 提取问题的匹配答案。
 
 ![Architecture](docs/architecture.png)
 
